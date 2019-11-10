@@ -1,7 +1,7 @@
-baseURL = ""
 theme = "awesome-identity"
-languageCode = "en-us"
-title = "BeYoung ✌️"
+baseURL = ""
+title = "Awesome Identity for Hugo"
+
 
 ## Profile Configurations
 [params.profile]
