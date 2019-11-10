@@ -5,7 +5,7 @@ title = "BeYoung"
 
 ## Profile Configurations
 [params.profile]
-  portrait = "/images/portrait-default.png"
+  portrait = "/images/pic.jpg"
   firstname = "Benson"
   lastname = "Yeung"
   title = "Student at UofT / Data Analyst"
