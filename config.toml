@@ -9,11 +9,7 @@ title = "BeYoung"
   firstname = "Benson"
   lastname = "Yeung"
   title = "Student at UofT / Data Analyst"
-  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
-
-  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  bio = """I like to eat duh rice
   """
 
 
